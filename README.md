@@ -1,9 +1,9 @@
 # BesovSmoothness
 measuring smoothness of datasets - tool for the paper "Function space analysis of deep learning
 representation layers" to be appeared. for terminology, see http://www.jmlr.org/papers/volume17/15-203/15-203.pdf
-this is a very simple tool to measure Besov smoothness
+this is a very simple tool for measuring Besov smoothness
 requirements:
-this app is working on any native windows platform (was tested on AWS Microsoft Windows Server 2016 Base - with no installations or dependencies)
+this app is working on native windows platform (was tested on AWS Microsoft Windows Server 2016 Base - with no installations or dependencies, and also on a laptop with windows10 installed)
 input:
 trainingData.csv - a csv file where each row is a sample with n features
 trainingLabel.csv - a csv file that match a label for each sample in the trainingData.csv file note that a label should be denoted as a point in a simplex (see examples in this repository for formats)
