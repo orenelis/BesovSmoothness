@@ -9,8 +9,8 @@ trainingData.csv - a csv file where each row is a sample with n features
 trainingLabel.csv - a csv file that match a label for each sample in the trainingData.csv file note that a label should be denoted as a point in a simplex (see examples in this repository for formats)
 config.txt - a config file with the relevant definitions for running the app
 running the app:
-1. make sure that config.txt is at the same level as the exe
-2. set config and run!
+*make sure that config.txt is at the same level as the exe
+*set config and run!
 config parameters (follow the attached example):
 dbPath				<your input path - where the two csv files are saved>
 resultsPath			<your output path - where you want to save results>
