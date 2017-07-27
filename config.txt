@@ -1,0 +1,8 @@
+dbPath				C:\cifar10-1000samples
+resultsPath			C:\cifar10-1000samples\results
+boundLevelDepth		9
+nTrees				5
+nFeaturesStr		all
+bagginPercent		0.8
+nCv					1
+Mterm				400
