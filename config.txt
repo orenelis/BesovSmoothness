@@ -5,4 +5,4 @@ nTrees				5
 nFeaturesStr		all
 bagginPercent		0.8
 nCv					1
-Mterm				400
+Mterm				1000
