@@ -24,3 +24,4 @@ output:<br />
 after the app is done you will have a folder with results saved at "resultsPath" you have defined.
 you will find a folder for each cross validation fold (zero indexed) and the result file inside "alpha.txt" containing the alpha smoothness. <br />in addition, you will find the measured error decay in errorByWaveletsTraining.txt and the number of wavelets used for the error decay in NwaveletsInWaveletByWaveletTraining.txt - with this two files you could fit the decay (alpha) in alternative methods if you wish.<br />
 
+a python version for this code could be found at https://github.com/kobigurk/WaveletsForestRegressor/
